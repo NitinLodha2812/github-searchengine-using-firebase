@@ -1,13 +1,10 @@
-**Project Name**: A Simple Contact Application using React and Firebase
+**Project Name**: **A Github user search using React and Firebase**
 
 <img src="./pics/1.jpg">
-we see the frontend.
+we see the frontend i.e, the login and signup page
 
 <img src="./pics/2.jpg">
-The particuar Contact how it looks like
+we search the username and can see the details
 
 <img src="./pics/3.jpg">
-it Has links and the map link is clicked so it shows the location.
-
-<img src="./pics/4.jpg">
-How the information we entered looks at the database
+we can see the usernames tat have done a login.
