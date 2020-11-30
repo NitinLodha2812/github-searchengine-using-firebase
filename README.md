@@ -10,4 +10,4 @@ The particuar Contact how it looks like
 it Has links and the map link is clicked so it shows the location.
 
 <img src="./pics/4.jpg">
-How the information we entered looks at the database.
+How the information we entered looks at the database
